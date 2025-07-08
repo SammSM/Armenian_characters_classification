@@ -88,6 +88,8 @@ The image will be:
 
 #### The model will process the image and return the predicted class index and corresponding Armenian character.
 
+![Alt Text](prediction1.jpg)
+
 ---
 
 ## 🛠️ Setup guide
