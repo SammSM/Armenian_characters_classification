@@ -60,7 +60,7 @@ A deep learning project using CNN to recognize and classify handwritten Armenian
 
 ---
 
-## ⚙️ Optimization and Regularization Techniques
+## 🔧 Optimization and regularization techniques
 ### To improve training efficiency and model performance, the following techniques were applied:
 
 - Dropout
