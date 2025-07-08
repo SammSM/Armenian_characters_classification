@@ -51,7 +51,7 @@ A deep learning project using CNN to recognize and classify handwritten Armenian
 
 ---
 
-## 🔄 Data Preprocessing and Augmentation
+## 🔄 Data preprocessing + augmentation
 
 - Images are loaded as grayscale, reshaped to (64x64x1).
 - Augmented data from the `augmented_dataset/` folder is merged with original data.
