@@ -18,6 +18,25 @@ A deep learning project using CNN to recognize and classify handwritten Armenian
 
 #### Both models support classification of 78 Armenian characters (uppercase and lowercase) and can be used to predict the letter shown in a handwritten image. The dataset used for training was loaded from Kaggle and contains labeled images of Armenian handwritten letters.
 
+## 📁 Repository Structure
+
+```
+📂 arm_char_cnn/
+│
+├── models/
+├── test_images/
+├── aug_arm_char_cnn.ipynb
+├── augmentation.ipynb
+└── requirements.txt
+
+📂 arm_char_cnn_without_augmentation/
+│
+├── models/
+├── test_images/
+├── arm_char_cnn.ipynb
+└── requirements.txt
+```
+
 ---
 
 ## 📚 Libraries
