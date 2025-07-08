@@ -1,6 +1,8 @@
 # ✍ Armenian_characters_classification
 A deep learning project using CNN to recognize and classify handwritten Armenian alphabet characters.
 
+![Alt Text](Armenian-letters.jpg)
+
 ## Models overview
 
 #### This project contains two neural network models trained to recognize handwritten Armenian letters:
