@@ -13,7 +13,7 @@ A deep learning project using CNN to recognize and classify handwritten Armenian
 ### Model with data augmentation (aug_arm_h5_model.h5 / aug_arm_pkl_model.pkl)
 
 - Trained on the original dataset plus additional augmented data.
-- Augmentation includes techniques such as random noise, rotation, and scaling.
+- Augmentation includes techniques such as random noise and scaling.
 - Shows improved performance and better generalization.
 
 ## Both models support classification of 78 Armenian characters (uppercase and lowercase) and can be used to predict the letter shown in a handwritten image.
