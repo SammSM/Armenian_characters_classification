@@ -66,6 +66,6 @@ A deep learning project using CNN to recognize and classify handwritten Armenian
 - Dropout
 - Batch Normalization
 - Early Stopping
-- Adam Optimizer
+- Learning rate manually set for the Adam optimizer
 
 #### Together, these methods optimize the training process, improve generalization, and help the model achieve higher accuracy with fewer epochs.
