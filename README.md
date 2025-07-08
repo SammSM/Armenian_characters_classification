@@ -69,3 +69,67 @@ A deep learning project using CNN to recognize and classify handwritten Armenian
 - Learning rate manually set for the Adam optimizer
 
 #### Together, these methods optimize the training process, improve generalization, and help the model achieve higher accuracy with fewer epochs.
+
+---
+
+## ⚙️ How it works
+
+#### Provide the path to an input image of a handwritten Armenian letter.
+
+The image will be:
+
+- Loaded from the specified path
+- Converted to grayscale
+- Resized to 64x64 pixels
+- Inverted (if needed) to match the training format (white character on black background)
+- Reshaped into the required input shape (1, 64, 64, 1)
+- The model will process the image and return the predicted class index and corresponding Armenian character
+
+---
+
+## 🛠️ Setup guide
+
+## 1. Clone the repository
+Open your environment and clone the repository
+```bash
+https://github.com/SammSM/Armenian_characters_classification.git
+```
+## 2. Change to Armenian_characters_classification directory
+```bash
+cd Armenian_characters_classification
+```
+
+## 4. Create a virtual environment and activate it
+
+- ### Create a virtual environment
+On Windows:
+```bash
+python -m venv venv
+```
+On macOS / Linux:
+```bash
+python3 -m venv venv
+```
+- ### Activate the virtual environment
+On Windows:
+```bash
+venv\Scripts\activate
+```
+On macOS / Linux:
+```bash
+source venv/bin/activate
+```
+
+## 5. Install PIP package manager for Python
+```bash
+py -m pip install --upgrade pip
+```
+### Or
+```bash
+python -m pip install --upgrade pip
+```
+
+## 6. Install requirements
+```bash
+pip install -r requirements.txt
+```
