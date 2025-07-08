@@ -90,17 +90,17 @@ The image will be:
 
 ## 🛠️ Setup guide
 
-## 1. Clone the repository
+### 1. Clone the repository
 Open your environment and clone the repository
 ```bash
 https://github.com/SammSM/Armenian_characters_classification.git
 ```
-## 2. Change to Armenian_characters_classification directory
+### 2. Change to Armenian_characters_classification directory
 ```bash
 cd Armenian_characters_classification
 ```
 
-## 4. Create a virtual environment and activate it
+### 4. Create a virtual environment and activate it
 
 - ### Create a virtual environment
 On Windows:
@@ -121,7 +121,7 @@ On macOS / Linux:
 source venv/bin/activate
 ```
 
-## 5. Install PIP package manager for Python
+### 5. Install PIP package manager for Python
 ```bash
 py -m pip install --upgrade pip
 ```
@@ -130,7 +130,7 @@ py -m pip install --upgrade pip
 python -m pip install --upgrade pip
 ```
 
-## 6. Install requirements
+### 6. Install requirements
 ```bash
 pip install -r requirements.txt
 ```
