@@ -60,3 +60,12 @@ A deep learning project using CNN to recognize and classify handwritten Armenian
 
 ---
 
+## ⚙️ Optimization and Regularization Techniques
+### To improve training efficiency and model performance, the following techniques were applied:
+
+- Dropout
+- Batch Normalization
+- Early Stopping
+- Adam Optimizer
+
+#### Together, these methods optimize the training process, improve generalization, and help the model achieve higher accuracy with fewer epochs.
