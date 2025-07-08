@@ -83,7 +83,8 @@ The image will be:
 - Resized to 64x64 pixels
 - Inverted (if needed) to match the training format (white character on black background)
 - Reshaped into the required input shape (1, 64, 64, 1)
-- The model will process the image and return the predicted class index and corresponding Armenian character
+
+#### The model will process the image and return the predicted class index and corresponding Armenian character.
 
 ---
 
