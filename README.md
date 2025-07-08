@@ -102,7 +102,7 @@ cd Armenian_characters_classification
 
 ### 4. Create a virtual environment and activate it
 
-- ### Create a virtual environment
+- #### Create a virtual environment
 On Windows:
 ```bash
 python -m venv venv
@@ -111,7 +111,7 @@ On macOS / Linux:
 ```bash
 python3 -m venv venv
 ```
-- ### Activate the virtual environment
+- #### Activate the virtual environment
 On Windows:
 ```bash
 venv\Scripts\activate
@@ -125,7 +125,7 @@ source venv/bin/activate
 ```bash
 py -m pip install --upgrade pip
 ```
-### Or
+#### Or
 ```bash
 python -m pip install --upgrade pip
 ```
