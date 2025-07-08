@@ -3,7 +3,7 @@ A deep learning project using CNN to recognize and classify handwritten Armenian
 
 ## Models overview
 
-## This project contains two neural network models trained to recognize handwritten Armenian letters:
+#### This project contains two neural network models trained to recognize handwritten Armenian letters:
 
 ### Model without data augmentation (arm_h5_model.h5 / arm_pkl_model.pkl)
 - Trained only on the original dataset.
